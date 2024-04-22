@@ -285,6 +285,11 @@ h2 {
 @media only screen and (max-width: 768px) {
   body {
     width: 150vh;
+    position: fixed;
+  }
+
+  html {
+    font-size: 80%;
   }
 
   .welcome {
