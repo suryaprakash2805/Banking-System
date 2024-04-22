@@ -304,4 +304,14 @@ h2 {
   .login__input {
     margin-bottom: 1rem;
   }
+
+  .app {
+    margin-top: 250px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .summary {
+    margin-bottom: 150px;
+  }
 }
