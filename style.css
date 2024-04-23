@@ -329,9 +329,12 @@ h2 {
     margin-bottom: 100px;
   }
 
-  .form__btn {
-    padding-bottom: 4px;
+  /* .btn--sort {
     font-size: 25px;
+  } */
+
+  .form__btn {
+    font-size: 35px;
   }
 
   .logout-timer {
