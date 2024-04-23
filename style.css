@@ -284,7 +284,7 @@ h2 {
 
 @media only screen and (max-width: 768px) {
   body {
-    width: 150vh;
+    width: 100vh;
   }
 
   html {
@@ -316,7 +316,7 @@ h2 {
 
   .login__btn {
     margin-top: 10rem;
-    font-size: 200%;
+    font-size: 50px;
   }
 
   .app {
@@ -331,5 +331,6 @@ h2 {
 
   .form__btn {
     padding-bottom: 5px;
+    font-size: 25px;
   }
 }
