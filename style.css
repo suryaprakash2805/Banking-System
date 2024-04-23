@@ -315,7 +315,7 @@ h2 {
   }
 
   .login__btn {
-    margin-top: 10rem;
+    margin-top: 9rem;
     font-size: 50px;
   }
 
@@ -330,7 +330,12 @@ h2 {
   }
 
   .form__btn {
-    padding-bottom: 5px;
+    padding-bottom: 4px;
     font-size: 25px;
+  }
+
+  .logout-timer {
+    margin-bottom: 10px;
+    margin-right: 30px;
   }
 }
