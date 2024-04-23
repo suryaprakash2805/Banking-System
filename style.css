@@ -316,7 +316,7 @@ h2 {
 
   .login__btn {
     margin-top: 9rem;
-    font-size: 50px;
+    font-size: 60px;
   }
 
   .app {
@@ -329,16 +329,19 @@ h2 {
     margin-bottom: 100px;
   }
 
-  /* .btn--sort {
-    font-size: 25px;
-  } */
+  .btn--sort {
+    margin-right: 16px;
+    font-size: 32px;
+  }
 
   .form__btn {
     font-size: 35px;
+    padding-bottom: 5px;
   }
 
   .logout-timer {
     margin-bottom: 10px;
     margin-right: 30px;
+    font-size: 32px;
   }
 }
