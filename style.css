@@ -296,25 +296,25 @@ h2 {
   }
 
   .welcome {
+    margin-top: 20rem;
     font-size: 3rem;
   }
 
   .logo {
-    height: 11rem;
+    margin-top: 0;
+    height: 10rem;
   }
 
   .login__input {
+    margin-top: 20rem;
     font-size: 2rem;
     width: 15rem;
     border: 5px solid #fff;
   }
 
-  .login__input {
-    margin-bottom: 1rem;
-  }
-
   .login__btn {
-    padding-bottom: 12px;
+    margin-top: 20rem;
+    padding-bottom: 15px;
   }
 
   .app {
@@ -324,6 +324,10 @@ h2 {
   }
 
   .summary {
-    margin-bottom: 150px;
+    margin-bottom: 100px;
+  }
+
+  .form__btn {
+    padding-bottom: 5px;
   }
 }
